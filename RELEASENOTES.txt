@@ -1,0 +1,18 @@
+---RELEASE NOTES---
+"THE LABYRINTH"
+BY ELIJAH GRIEVES
+VERSION 1.1
+2025/01/23
+
+---NEW FEATURES---
+> The avatar sprite has been changed to appear humanoid and has a walking animation
+> There is now an enemy that lurks within the Labyrinth that kills the player and ends the game upon contact.
+
+---FIXES---
+> Removed a "meow" SFX when interacting with the endgame chest.
+
+---KNOWN BUGS---
+> Dialogue trees that result in the game ending can progress too quickly and restart the game before the player can properly finish reading.
+
+---FUTURE IMPROVEMENTS---
+> Move the enemy and have it patrol the area in front of the key so that the player must time their passage and avoid them to grab the key. May not be possible due to engine limitations.
